@@ -88,12 +88,6 @@
 | 84 | to jump | **serrag** سِرَّگ | serret سِرِّت | serr سر | serraan' سِران | کودنا |
 | 85 | to climb | **charhag** چَڑَگ | charhet چَڑِت | charh چڑ | charhaan' چَڑان | چڑھنا |
 | 86 | to dig | **kóchag** کۆچَگ | kótk کۆتک | kóch کۆچ | kócha کوچا | کھودنا |
-Here is the continuation of the comprehensive Balochi verbs list:
-
-### **Balochi Verbs - Complete Tense List (Continued)**
-
-| No. | English Meaning | Balochi Verb (Infinitive) | Past Tense | Present Tense | Future Tense | Urdu Meaning |
-|:---:|:---|:---|:---|:---|:---|:---|
 | 87 | to push | **dhalag** ڈَلَگ | dhalet ڈَلِت | dhal ڈل | dhalaan' ڈَلان | دھکیلنا |
 | 88 | to pull | **kasshag** کَشَّگ | kasshet کَشِّت | kashsh کَش | kashshaan' کَشان | کھینچنا |
 | 89 | to throw | **chandhag** چَنڈَگ | chandhet چَنڈِت | chandh چنڈ | chandhaan' چَنڈان | پھینکنا |
