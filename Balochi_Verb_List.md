@@ -14,7 +14,7 @@
 | 10 | to give | **dayag** دئیگ | dát دات | dae دے | daan' دان | دینا |
 | 11 | to write | **nibissag** نیبیسَّگ | nibissit نیبیسِت | nibiss نیبس | nibissaan' نیبسان | لکھنا |
 | 12 | to read | **waanag** وانَگ | waanit وانِت | waan وان | wanaan' وانان | پڑھنا |
-| 13 | to learn | **yaad gerag** یاد گِرَگ | yaad gept یاد گِپت | yaad ger یاد گر | yaad giraan' یاد گران | سیکھنا |
+| 13 | to learn | **hel gerag** ھیل گرگ | **hel gept** ھیل گِپت | **hel ger** ھیل گر | **hel giraan'** ھیل گران | سیکھنا |
 | 14 | to know | **zánag** زانَگ | zánt زانت | zaan زان | zaanaan' زانان | جاننا |
 | 15 | to want | **loutag** لوتَگ | loutit لوتِت | lout لوت | loutaan' لوتان | چاہنا |
 | 16 | to sleep | **waptag** وَپتَگ | waptit وَپتِت | wapt وَپت | waptaan' وَپتان | سونا |
@@ -34,16 +34,16 @@
 | 30 | to kill | **koshag** کُشَگ | kosht کُشت | kosh کُش | koshaan' کُشان | مار ڈالنا |
 | 31 | to fight | **merhag** مِڑَگ | merhet مِڑِت | merh مِڑ | merhaan' مِڑان | لڑنا |
 | 32 | to love | **mehr kanag** مِہر کَنَگ | mehr kort مِہر کُرت | mehr kan مِہر کَن | mehr kanaan' مِہر کَنان | پیار کرنا |
-| 33 | to think | **pekár kanag** پِکار کَنَگ | pekár kort پِکار کُرت | pekár kan پِکار کَن | pekár kanaan' پِکار کَنان | سوچنا |
+| 33 | to think / to ponder / to mull over | **jérhag** جیڑگ | **jérhet** جیڑت | **jérh** جیڑ | **jérhaan'** جیڑان | سوچنا / غور کرنا |
 | 34 | to understand | **pahmag** پَهمَگ | pahmet پَهمِت | pahm پهم | pahmaan' پَهمان | سمجھنا |
 | 35 | to hear/listen | **eshkonag** اِشکُنَگ | eshkot اِشکُت | eshkon اِشکُن | eshkonaan' اِشکُنان | سننا |
 | 36 | to smell | **bong warag** بُنگ وَرَگ | bong waart بُنگ وَرت | bong waa بُنگ وا | bong waraan' بُنگ وران | سونگھنا |
 | 37 | to taste | **chashag** چَشَگ | chasht چَشت | chash چش | chashaan' چَشان | چکھنا |
 | 38 | to touch | **dhokkag** ڈُکَّگ | dhokket ڈُکِّت | dhokk ڈُک | dhokkaan' ڈُکان | چھونا |
 | 39 | to buy | **gerag** گِرَگ | gept گِپت | ger گر | giraan' گران | خریدنا |
-| 40 | to sell | **foroshag** فُرُشَگ | forosht فُرُشت | forosh فُرُش | foroshaan' فُرُشان | بیچنا |
+| 40 | to sell | **shoshkag** شوشکگ | **shoshket** شوشکت | **shoshk** شوشک | **shoshkaan'** شوشکان | بیچنا / فروخت کرنا |
 | 41 | to open | **bojag** بُجَگ | botk بُتک | boj بُج | bojaan' بُجان | کھولنا |
-| 42 | to close | **dhakkag** ڈَکَّگ | dhakket ڈَکِّت | dhakk ڈَک | dhakkaan' ڈَکان | بند کرنا |
+| 42 | to cover | **dhakkag** ڈَکَّگ | dhakket ڈَکِّت | dhakk ڈَک | dhakkaan' ڈَکان | بند کرنا |
 | 43 | to wash | **shódag** شۆدَگ | shosht شُشت | shód شۆد | shódaan' شۆدان | دھونا |
 | 44 | to cook | **grádag** گْرادَگ | grást گْراست | grád گْراد | grádaan' گْرادان | پکانا |
 | 45 | to build | **bandag** بَندَگ | bast بَست | band بند | bandaan' بَندان | بنانا |
@@ -51,26 +51,25 @@
 | 47 | to cut | **kottag** کُٹَّگ | kotthet کُٹِّت | kott کُٹ | kottaan' کُٹان | کاٹنا |
 | 48 | to sew | **dóchag** دۆچَگ | dótk دۆتک | dóch دۆچ | dóchaan' دۆچان | سینا |
 | 49 | to sweep | **rópag** رۆپَگ | ropt رُپت | róp رۆپ | rópaan' رۆپان | جھاڑو دینا |
-| 50 | to cry/weep | **gréwag** گرێوَگ | grét گْرێت | gréw گرێو | gréwaan' گرێوان | رونا |
+| 50 | to cry / to weep | **greyaag** گریگ | **greyet** گریت | **grey** گری | **greyaan'** گریان | رونا |
 | 51 | to sing | **saráyag** سَرایَگ | sarát سَرات | saráy سَرای | saráyaan' سَرایان | گانا گانا |
 | 52 | to dance | **chamag** چَمَگ | chamet چَمِت | cham چم | chamaan' چَمان | ناچنا |
 | 53 | to play | **laib kanag** لیب کَنَگ | laib kort لیب کُرت | laib kan لیب کَن | laib kanaan' لیب کَنان | کھیلنا |
 | 54 | to work | **kaar kanag** کار کَنَگ | kaar kort کار کُرت | kaar kan کار کَن | kaar kanaan' کار کَنان | کام کرنا |
 | 55 | to try | **johud kanag** جُہد کَنَگ | johud kort جُہد کُرت | johud kan جُہد کَن | johud kanaan' جُہد کَنان | کوشش کرنا |
-| 56 | to succeed | **kaamyaab buag** کامیا ب بوئَگ | kaamyaab but کامیا ب بوت | kaamyaab bee کامیا ب بِی | kaamyaab beein' کامیا ب بِین | کامیاب ہونا |
 | 57 | to fail | **nákaam buag** ناکام بوئَگ | nákaam but ناکام بوت | nákaam bee ناکام بِی | nákaam beein' ناکام بِین | ناکام ہونا |
 | 58 | to forget | **shamóshag** شَمۆشَگ | shamosht شَمُشت | shamósh شَمۆش | shamóshaan' شَمۆشان | بھولنا |
 | 59 | to remember | **yaad rawag** یاد رئوَگ | yaad shot یاد شُت | yaad raw یاد رو | yaad rawaan' یاد روان | یاد آنا |
-| 60 | to teach | **amozénag** آموزێنَگ | amozént آموزێنت | amozén آموزین | amozénaan' آموزینان | سکھانا |
-| 61 | to study | **motalea kanag** مُطالعہ کَنَگ | motalea kort مُطالعہ کُرت | motalea kan مُطالعہ کَن | motalea kanaan' مُطالعہ کَنان | مطالعہ کرنا |
+| 60 | to teach | **wánénag** وانینگ | **wánént** وانینت | **wánén** وانین | **wánénaan'** وانینان | سکھانا / پڑھانا |
+| 61 | to study / to read | **wánag** وانگ | **wánit** وانِت | **wán** وان | **wánaan'** وانان | مطالعہ کرنا / پڑھنا |
 | 62 | to count | **shomaar kanag** شُمار کَنَگ | shomaar kort شُمار کُرت | shomaar kan شُمار کَن | shomaar kanaan' شُمار کَنان | گننا |
 | 63 | to ask | **porsag** پُرسَگ | porset پُرسِت | pors پُرس | porsaan' پُرسان | پوچھنا |
-| 64 | to answer | **jawab daatag** جواب داتَگ | jawab dát جواب دات | jawab dae جواب دے | jawab daan' جواب دان | جواب دینا |
-| 65 | to promise | **waada kanag** وعدہ کَنَگ | waada kort وعدہ کُرت | waada kan وعدہ کَن | waada kanaan' وعدہ کَنان | وعدہ کرنا |
+| 64 | to answer / to reply | **passaw dayag** پسئو دیگ / **wardi dayag** وردی دیگ | **passaw dát** پسئو دات / **wardi dát** وردی دات | **passaw dae** پسئو دے / **wardi dae** وردی دے | **passaw daan'** پسئو دان / **wardi daan'** وردی دان | جواب دینا |
+| 65 | to promise | **zawán dayag** زوان دیگ | **zawán dát** زوان دات | **zawán dae** زوان دے | **zawán daan'** زوان دان | وعدہ کرنا |
 | 66 | to forgive | **bakshag** بَکشَگ | bakshet بَکشِت | baksh بَکش | bakshaan' بَکشان | معاف کرنا |
 | 67 | to thank | **minnat warag** مِنَّت وَرَگ | minnat waart مِنَّت وَرت | minnat waa مِنَّت وا | minnat waraan' مِنَّت وران | شکریہ ادا کرنا |
-| 68 | to welcome | **khush aamadeed goshag** خوش آمدید گوشَگ | khush aamadeed gosht خوش آمدید گوشت | khush aamadeed gosh خوش آمدید گُش | khush aamadeed goshaan' خوش آمدید گُشان | خوش آمدید کہنا |
-| 69 | to help | **madad kanag** مدد کَنَگ | madad kort مدد کُرت | madad kan مدد کَن | madad kanaan' مدد کَنان | مدد کرنا |
+| 68 | to welcome | **wash aatk kanag** وش آتک کنگ | **wash aatk kort** وش آتک کُرت | **wash aatk kan** وش آتک کَن | **wash aatk kanaan'** وش آتک کَنان | خوش آمدید کہنا / استقبال کرنا |
+| 69 | to help | **komak dayag** کمک دیگ | **komak dát** کمک دات | **komak dae** کمک دے | **komak daan'** کمک دان | مدد کرنا |
 | 70 | to meet | **millaqaat kanag** ملاقات کَنَگ | millaqaat kort ملاقات کُرت | millaqaat kan ملاقات کَن | millaqaat kanaan' ملاقات کَنان | ملاقات کرنا |
 | 71 | to marry | **waada kanag** وادہ کَنَگ | waada kort وادہ کُرت | waada kan وادہ کَن | waada kanaan' وادہ کَنان | شادی کرنا |
 | 72 | to grow | **rodag** رُدَگ | rost رُست | rod رُد | rodaan' رُدان | اگنا / بڑھنا |
@@ -95,16 +94,20 @@
 | 91 | to hold | **dárag** دارَگ | dásht داشت | daar دار | daaraan' داران | تھامنا |
 | 92 | to release | **bójag** بۆجَگ | bótk بۆتک | bój بۆج | bójaan' بۆجان | چھوڑنا |
 | 93 | to carry | **barag** بَرَگ | bort بُرت | bar بر | baraan' باران | اٹھانا |
+| 93 | to carry / to take / to lift | **barag** بَرَگ / **zéyrag** زیرگ | **bort** بُرت / **zéyret** زیرت | **bar** بر / **zéyr** زیر | **baraan'** باران / **zéyraan'** زیران | اٹھانا / لے جانا / اُٹھانا |
 | 94 | to bring | **árag** آرَگ | áwort آورت | aar آر | aaraan' آران | لانا |
 | 95 | to send | **rastag** رَستَگ | rastet رَستِت | rast رست | rastaan' رَستان | بھیجنا |
+| 95 | to send / to dispatch | **dem dayag** دیم دیگ / **shashtag** ششتگ | **dem dát** دیم دات / **shashtet** ششتت | **dem dae** دیم دے / **shasht** ششت | **dem daan'** دیم دان / **shashtaan'** ششتان | بھیجنا / روانہ کرنا |
 | 96 | to receive | **rasag** رَسَگ | raset رَسِت | ras رس | rasaan' رَسان | وصول کرنا |
 | 97 | to fill | **por kanag** پُر کَنَگ | por kort پُر کُرت | por kan پُر کَن | por kanaan' پُر کَنان | بھرنا |
 | 98 | to empty | **khaali kanag** خالی کَنَگ | khaali kort خالی کُرت | khaali kan خالی کَن | khaali kanaan' خالی کَنان | خالی کرنا |
-| 99 | to clean | **saaf kanag** صاف کَنَگ | saaf kort صاف کُرت | saaf kan صاف کَن | saaf kanaan' صاف کَنان | صاف کرنا |
+| 98 | to empty / to pour out | **khaali kanag** خالی کَنَگ / **hórak kanag** ھورک کنگ | **khaali kort** خالی کُرت / **hórak kort** ھورک کُرت | **khaali kan** خالی کَن / **hórak kan** ھورک کَن | **khaali kanaan'** خالی کَنان / **hórak kanaan'** ھورک کَنان | خالی کرنا / انڈیلنا |
+| 99 | to clean | **sapá kanag** سپا کنگ | **sapá kort** سپا کُرت | **sapá kan** سپا کَن | **sapá kanaan'** سپا کَنان | صاف کرنا |
 | 100 | to dirty | **gandag kanag** گندگ کَنَگ | gandag kort گندگ کُرت | gandag kan گندگ کَن | gandag kanaan' گندگ کَنان | گندا کرنا |
 | 101 | to lose | **gom kanag** گم کَنَگ | gom kort گم کُرت | gom kan گم کَن | gom kanaan' گم کَنان | کھونا |
-| 102 | to find | **daryaft kanag** دریافت کَنَگ | daryaft kort دریافت کُرت | daryaft kan دریافت کَن | daryaft kanaan' دریافت کَنان | پانا |
-| 103 | to search | **taftesh kanag** تفتیش کَنَگ | taftesh kort تفتیش کُرت | taftesh kan تفتیش کَن | taftesh kanaan' تفتیش کَنان | تلاش کرنا |
+| 101 | to lose | **gár kanag** گار کنگ | **gár kort** گار کُرت | **gár kan** گار کَن | **gár kanaan'** گار کَنان | کھونا / گم کرنا |
+| 102 | to find | **polag** پولگ / **dast kanag** دست کنگ | **polet** پولت / **dast kort** دست کُرت | **pol** پول / **dast kan** دست کَن | **polaan'** پولان / **dast kanaan'** دست کَنان | پانا / دریافت کرنا |
+| 103 | to search / to look for | **shoházag** شوھازگ | **shoházt** شوھازت | **shoház** شوھاز | **shoházaан'** شوھازان | تلاش کرنا / ڈھونڈنا |
 | 104 | to hide | **chupag** چُپَگ | chupt چُپت | chup چپ | chupaan' چُپان | چھپنا |
 | 105 | to seek | **justag** جُستَگ | justet جُستِت | just جست | justaan' جُستان | ڈھونڈنا |
 | 106 | to choose | **entekhaab kanag** انتخاب کَنَگ | entekhaab kort انتخاب کُرت | entekhaab kan انتخاب کَن | entekhaab kanaan' انتخاب کَنان | انتخاب کرنا |
