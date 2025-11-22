@@ -56,8 +56,26 @@ Verbs are listed in their infinitive form (to do something), which typically end
 | to be born | پدا بوگ | **peda buag** |
 | to be ashamed | شرمنده بوگ | **sharminda buag** |
 | to be annoyed | زهر بوگ | **zahr buag** |
-
----
+| To Beat | جانگ | **janag**  |
+| To Play | لیب کنگ  |   **laib kanag** /   |
+| To Look | چارگ | **chaarag** 
+| To Think | پکر کنگ / ہیال کنگ | **pekr kanag** / **hyaal kanag**  |
+| To Say | گوشگ / گواشگ |  **goshag**/ **gwashag**  |
+| To Do |  کنگ | **kanag**  |
+| To Learn | یاد گرگ / دربرگ |  **darbrag**  |
+| To Cry | گریوگ  **greyvag**  |
+| To Write | نیبیسگ / نیبشت کنگ | **nibissag** / **Nibishtakang**  |
+| To Come | کایگ | **kayag**  |
+| To Go |   روگ | **rawag**  |
+| To Take | زیگر / زورگ | **zeyrag** / **zourag**  |
+| To Laugh | کندگ | **kandag**  |
+| To Read |  وانگ | **waanag**  |
+| To Want |   لوتگ   | **loutag**   |
+| To Try |  جہد کنگ | **johud kanag**  |
+| To Watch |  چرگ  | **charag**  |
+| To Think (borrowed) | سوچگ | **souchag**  |
+| To Play (borrowed) | گوازیگ کنگ  | **Gwazeeg kanag** |
+| To Learn (borrowed) | سیکگ | **sekkag** |
 
 ### **4. Basic Vocabulary List**
 
@@ -99,4 +117,53 @@ Verbs are listed in their infinitive form (to do something), which typically end
 | afterward | گُد | **guda** |
 | approximately | تکرِبان | **takriban** |
 | together | ھنچو | **hancho** |
+
+- Always = ہمیشہ = **daahema** / **mudaam** دائمہ / مدام
+- At night = رات کو = **shapa** شپ
+- At day = دن کو = **roucha** روچ
+- At mid day = دوپہر کو = **neym roucha** نیم روچ
+- When = کب = **kadi** کدی
+
+- Lie = جھوٹ = **duroug** دروگ
+- Truth = سچ = **raast** راست
+- Want = چاہ = **loutag** لوتگ
+- Reason/Cause = وجہ = **sawab** سبب
+- Without any reason = بلا وجہ = **bey sawab** بے سبب
+- Thing = چیز = **chizz** چیز
+- Every = ہر = **hamuk** / **har** ہمک / ہر
+- Work = کام = **kaar** کار
+
+
+- Here = یہاں = **edaa** ایدا
+- There = وہاں = **ouda** اودا
+- Where = کہاں = **kujaa** / **kujaango** / **koja** کجا / کجانو / کوجا
+- Which = کون سا = **kujaam** / **kojaam** کجام / کوجام
+- Anywhere = کہیں بھی = **hech jah** ہچ جہ
+- Institute = ادارہ = **Idarah** ادارہ
+
+
+- What = کیا = **chey** چی
+- Why = کیوں = **chiya** / **parchiya** چیا / پرچیا
+- How = کیسے = **chon'** / **chonaka?** / **chey paema** چوں / چونکا / چی پیم
+- How much/many = کتنا/کتنے = **chincho?** چنچو
+- How many people = کتنے لوگ = **chincho kas** چنچو کس
+- When = کب = **kadi** کدی
+- Which = کون سا = **kujaam** / **kojaam** کجام / کوجام
+- Whatever = جو کچھ بھی = **herchey** ہرچی
+
+- Nice/Good = اچھا = **Shar** / **sharr** شر / شر
+- Perfect/Best = بہترین = **Baaz shar** باز شر
+- Everything = ہر چیز = **harchey** ہرچی
+- Anything = کچھ بھی = **hech** ہچ
+- My = میرا = **mani** / **manee** منی / مانی
+- Yours = تمہارا = **Taee** تائی
+- His/Her = اس کا = **Aahiye** / **Ishiye** آہیے / ایشیے
+- About = کے بارے میں = **babata** / **baraha** بابت / براہ
+
+- Book = کتاب = **ketaab** کتاب
+- Name = نام = **naam** نام
+- Letter = خط = **namdiye** نامدی
+- Lesson = سبق = **dars** درس
+
+- Person/People = شخص/لوگ = **kas** / **mardum** کس / مردم
 
