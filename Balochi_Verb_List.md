@@ -72,6 +72,7 @@
 | 69 | to help | **komak dayag** کمک دیگ | **komak dát** کمک دات | **komak dae** کمک دے | **komak daan'** کمک دان | مدد کرنا |
 | 70 | to meet | **millaqaat kanag** ملاقات کَنَگ | millaqaat kort ملاقات کُرت | millaqaat kan ملاقات کَن | millaqaat kanaan' ملاقات کَنان | ملاقات کرنا |
 | 71 | to marry | **waada kanag** وادہ کَنَگ | waada kort وادہ کُرت | waada kan وادہ کَن | waada kanaan' وادہ کَنان | شادی کرنا |
+| 71 | to marry | **seer kanag** سیر کنگ / **ároos kanag** آروس کنگ | **seer kort** سیر کُرت / **ároos kort** آروس کُرت | **seer kan** سیر کَن / **ároos kan** آروس کَن | **seer kanaan'** سیر کَنان / **ároos kanaan'** آروس کَنان | شادی کرنا / بیاہنا |
 | 72 | to grow | **rodag** رُدَگ | rost رُست | rod رُد | rodaan' رُدان | اگنا / بڑھنا |
 | 73 | to plant | **keshag** کِشَگ | kesht کِشت | kesh کِش | keshaan' کِشان | بوائی کرنا |
 | 74 | to rain | **gwárag** گْوارَگ | gwart گْوَرت | gwar گْور | gwáraan' گْواران | بارش ہونا |
@@ -81,8 +82,8 @@
 | 78 | to shine | **chamkag** چَمکَگ | chamket چَمکِت | chamk چمک | chamkaan' چَمکان | چمکنا |
 | 79 | to rise (sun) | **ásag** آسَگ | áset آسِت | ás آس | ásaan' آسان | طلوع ہونا |
 | 80 | to set (sun) | **ghorab rawag** غُرَب رئوَگ | ghorab shot غُرَب شُت | ghorab raw غُرَب رو | ghorab rawaan' غُرَب روان | غروب ہونا |
-| 81 | to fly | **parrag** پَرَّگ | parret پَرِّت | parr پَر | parraan' پَران | اڑنا |
-| 82 | to swim | **aap sochag** آپ سُچَگ | aap socht آپ سُچت | aap soch آپ سُچ | aap sochaan' آپ سُچان | تیرنا |
+| 81 | to fly | **bál dayag** بال دیگ | **bál dát** بال دات | **bál dae** بال دے | **bál daan'** بال دان | اڑنا |
+| 82 | to swim | **hozhang** ہوژنگ | **hozhent** ہوژنت | **hozhen** ہوژن | **hozhenaan'** ہوژنان | تیرنا |
 | 83 | to crawl | **kharamag** خَرَمَگ | kharamet خَرَمِت | kharam خرم | kharamaan' خَرَمان | رینگنا |
 | 84 | to jump | **serrag** سِرَّگ | serret سِرِّت | serr سر | serraan' سِران | کودنا |
 | 85 | to climb | **charhag** چَڑَگ | charhet چَڑِت | charh چڑ | charhaan' چَڑان | چڑھنا |
@@ -90,17 +91,15 @@
 | 87 | to push | **dhalag** ڈَلَگ | dhalet ڈَلِت | dhal ڈل | dhalaan' ڈَلان | دھکیلنا |
 | 88 | to pull | **kasshag** کَشَّگ | kasshet کَشِّت | kashsh کَش | kashshaan' کَشان | کھینچنا |
 | 89 | to throw | **chandhag** چَنڈَگ | chandhet چَنڈِت | chandh چنڈ | chandhaan' چَنڈان | پھینکنا |
-| 90 | to catch | **girághag** گِرا�ھَگ | girághet گِرا�ھِت | girágh گِراڱ | girághaan' گِراڱان | پکڑنا |
+| 90 | to catch / to take / to buy / to arrest | **girághag** گِراڱگ / **gerag** گرگ | **giráght** گِراڱت / **gept** گِپت | **girágh** گِراڱ / **ger** گر | **girághaan'** گِراڱان / **giraan'** گران | پکڑنا / لینا / خریدنا / گرفتار کرنا |
 | 91 | to hold | **dárag** دارَگ | dásht داشت | daar دار | daaraan' داران | تھامنا |
 | 92 | to release | **bójag** بۆجَگ | bótk بۆتک | bój بۆج | bójaan' بۆجان | چھوڑنا |
 | 93 | to carry | **barag** بَرَگ | bort بُرت | bar بر | baraan' باران | اٹھانا |
 | 93 | to carry / to take / to lift | **barag** بَرَگ / **zéyrag** زیرگ | **bort** بُرت / **zéyret** زیرت | **bar** بر / **zéyr** زیر | **baraan'** باران / **zéyraan'** زیران | اٹھانا / لے جانا / اُٹھانا |
 | 94 | to bring | **árag** آرَگ | áwort آورت | aar آر | aaraan' آران | لانا |
-| 95 | to send | **rastag** رَستَگ | rastet رَستِت | rast رست | rastaan' رَستان | بھیجنا |
 | 95 | to send / to dispatch | **dem dayag** دیم دیگ / **shashtag** ششتگ | **dem dát** دیم دات / **shashtet** ششتت | **dem dae** دیم دے / **shasht** ششت | **dem daan'** دیم دان / **shashtaan'** ششتان | بھیجنا / روانہ کرنا |
 | 96 | to receive | **rasag** رَسَگ | raset رَسِت | ras رس | rasaan' رَسان | وصول کرنا |
 | 97 | to fill | **por kanag** پُر کَنَگ | por kort پُر کُرت | por kan پُر کَن | por kanaan' پُر کَنان | بھرنا |
-| 98 | to empty | **khaali kanag** خالی کَنَگ | khaali kort خالی کُرت | khaali kan خالی کَن | khaali kanaan' خالی کَنان | خالی کرنا |
 | 98 | to empty / to pour out | **khaali kanag** خالی کَنَگ / **hórak kanag** ھورک کنگ | **khaali kort** خالی کُرت / **hórak kort** ھورک کُرت | **khaali kan** خالی کَن / **hórak kan** ھورک کَن | **khaali kanaan'** خالی کَنان / **hórak kanaan'** ھورک کَنان | خالی کرنا / انڈیلنا |
 | 99 | to clean | **sapá kanag** سپا کنگ | **sapá kort** سپا کُرت | **sapá kan** سپا کَن | **sapá kanaan'** سپا کَنان | صاف کرنا |
 | 100 | to dirty | **gandag kanag** گندگ کَنَگ | gandag kort گندگ کُرت | gandag kan گندگ کَن | gandag kanaan' گندگ کَنان | گندا کرنا |
@@ -113,24 +112,14 @@
 | 106 | to choose | **entekhaab kanag** انتخاب کَنَگ | entekhaab kort انتخاب کُرت | entekhaab kan انتخاب کَن | entekhaab kanaan' انتخاب کَنان | انتخاب کرنا |
 | 107 | to decide | **tassallof kanag** تصّلُف کَنَگ | tassallof kort تصّلُف کُرت | tassallof kan تصّلُف کَن | tassallof kanaan' تصّلُف کَنان | فیصلہ کرنا |
 | 108 | to change | **tagheer dayag** تغیر دئیگ | tagheer dát تغیر دات | tagheer dae تغیر دے | tagheer daan' تغیر دان | تبدیل کرنا |
-| 109 | to become | **buag** بوئَگ | but بوت | bee بِی | beein' بِین | بننا |
-| 110 | to seem | **laggag** لَگَّگ | lagget لَگِّت | lagg لگ | laggaan' لَگان | لگنا |
-| 111 | to appear | **peyda buag** پیدَا بوئَگ | peyda but پیدَا بوت | peyda bee پیدَا بِی | peyda beein' پیدَا بِین | ظاہر ہونا |
-| 112 | to disappear | **ghaayeb buag** غائب بوئَگ | ghaayeb but غائب بوت | ghaayeb bee غائب بِی | ghaayeb beein' غائب بِین | غائب ہونا |
-| 113 | to happen | **ruu dag** رُو دَگ | ruu dat رُو دَت | ruu dae رُو دے | ruu daan' رُو دان | ہونا |
-| 114 | to cause | **sabab buag** سبب بوئَگ | sabab but سبب بوت | sabab bee سبب بِی | sabab beein' سبب بِین | سبب بننا |
-| 115 | to need | **zaroorat buag** ضرورت بوئَگ | zaroorat but ضرورت بوت | zaroorat bee ضرورت بِی | zaroorat beein' ضرورت بِین | ضرورت ہونا |
-| 116 | to must | **baayad** بایَد | - | baayad بایَد | - | ضرور ہونا |
-| 117 | to can | **twaanag** توانَگ | twaanit توانِت | twaan توان | twanaan' توانان | سکنا |
-| 118 | to may | **mumkin buag** ممکن بوئَگ | mumkin but ممکن بوت | mumkin bee ممکن بِی | mumkin beein' ممکن بِین | ممکن ہونا |
-| 119 | to should | **chaahiag** چاہیَگ | chaahit چاہِت | chaah چاہ | chaahaan' چاہان | چاہیے |
-| 120 | to would | - | - | - | - | - |
-| 121 | to will | - | - | - | - | - |
-| 122 | to shall | - | - | - | - | - |
-| 123 | to could | - | - | - | - | - |
-| 124 | to might | - | - | - | - | - |
-| 125 | to used to | - | - | - | - | - |
-| 126 | to dare | **jurrat kanag** جُرّت کَنَگ | jurrat kort جُرّت کُرت | jurrat kan جُرّت کَن | jurrat kanaan' جُرّت کَنان | ہمت کرنا |
+| 109 | to be / to become | **buag** بوئگ / **biag** بیئگ | **but** بوت / **bit** بِت | **bee** بِی / **bie** بِئ | **beein'** بِین / **biein'** بِئین | ہونا / بننا |
+| 110 | to seem / to appear / to look like / to remain | **laggag** لگّگ / **mánag** ماناگ | **lagget** لگّت / **mant** منت | **lagg** لگ / **maan** مان | **laggaan'** لگان / **maanaan'** مانان | لگنا / معلوم ہونا / دکھائی دینا / رہنا |
+| 111 | to appear / to become visible | **peyda buag** پیدَا بوئگ / **darkapag** درکپگ | **peyda but** پیدَا بوت / **darkapt** درکپت | **peyda bee** پیدَا بِی / **darkap** درکپ | **peyda beein'** پیدَا بِین / **darkapaan'** درکپان | ظاہر ہونا / نظر آنا |
+| 112 | to disappear / to get lost | **ghaayeb buag** غائب بوئگ / **gár biag** گار بیگ | **ghaayeb but** غائب بوت / **gár bit** گار بِت | **ghaayeb bee** غائب بِی / **gár bie** گار بِئ | **ghaayeb beein'** غائب بِین / **gár biein'** گار بِئین | غائب ہونا / گم ہونا |
+| 113 | to happen / to occur | **bayag** بئیگ | **but** بوت | **bee** بِی | **beein'** بِین | ہونا / واقع ہونا |
+| 114 | to feed / to cause to eat | **warráyénag** وراینگ | **warráyént** وراینت | **warráyén** وراین | **warráyénaan'** وراینان | کھلانا / غذا دینا |
+| 115 | to need | **zoroorat buag** زلورت بوئگ | **zoroorat but** زلورت بوت | **zoroorat bee** زلورت بِی | **zoroorat beein'** زلورت بِین | ضرورت ہونا / ضرورت پڑنا |
+| 126 | to dare / to challenge | **gámbelag** گامبیلگ | **gámbelet** گامبیلت | **gámbel** گامبل | **gámbelaan'** گامبلان | ہمت کرنا / جرات کرنا |
 | 127 | to offer | **pesh keshag** پیش کِشَگ | pesh kesht پیش کِشت | pesh kesh پیش کِش | pesh keshaan' پیش کِشان | پیشکش کرنا |
 | 128 | to refuse | **inkaar kanag** اِنکار کَنَگ | inkaar kort اِنکار کُرت | inkaar kan اِنکار کَن | inkaar kanaan' اِنکار کَنان | انکار کرنا |
 | 129 | to agree / to accept / to obey | **mannag** مَنَّگ | **mannet** مَنِّت | **mann** مَن | **mannaan'** مَنان | ماننا / راضی ہونا / قبول کرنا |
@@ -144,28 +133,28 @@
 | 137 | to invite / to call / to summon | **lótag** لۆٹگ | **lótet** لۆٹت | **lót** لۆٹ | **lótaan'** لۆٹان | دعوت دینا / بلانا |
 | 138 | to welcome | **khush aamadeed goshag** خوش آمدید گوشَگ | khush aamadeed gosht خوش آمدید گوشت | khush aamadeed gosh خوش آمدید گُش | khush aamadeed goshaan' خوش آمدید گُشان | خوش آمدید کہنا |
 | 139 | to congratulate | **mubaarak baad daatag** مبارک باد داتَگ | mubaarak baad dát مبارک باد دات | mubaarak baad dae مبارک باد دے | mubaarak baad daan' مبارک باد دان | مبارکباد دینا |
-| 140 | to praise | **saraahag** سَراہَگ | saraahet سَراہِت | saraah سَراہ | saraahaan' سَراہان | تعریف کرنا |
+| 140 | to praise / to commend | **táwseep kanag** تئوسیپ کنگ / **sepat kanag** سپت کنگ | **táwseep kort** تئوسیپ کُرت / **sepat kort** سپت کُرت | **táwseep kan** تئوسیپ کَن / **sepat kan** سپت کَن | **táwseep kanaan'** تئوسیپ کَنان / **sepat kanaan'** سپت کَنان | تعریف کرنا / ستائش کرنا |
 | 141 | to blame | **malámat kanag** ملامت کَنَگ | malámat kort ملامت کُرت | malámat kan ملامت کَن | malámat kanaan' ملامت کَنان | ملامت کرنا |
-| 142 | to criticize | **intaqad kanag** اِنتَقاد کَنَگ | intaqad kort اِنتَقاد کُرت | intaqad kan اِنتَقاد کَن | intaqad kanaan' اِنتَقاد کَنان | تنقید کرنا |
+| 141 | to blame / to criticize / to denounce | **dhóbárag** ڈۆبارگ | **dhóbáret** ڈۆبارت | **dhóbár** ڈۆبار | **dhóbáraan'** ڈۆباران | ملامت کرنا / تنقید کرنا |
 | 143 | to insult | **touheen kanag** توہین کَنَگ | touheen kort توہین کُرت | touheen kan توہین کَن | touheen kanaan' توہین کَنان | توہین کرنا |
-| 144 | to respect | **ehteraam kanag** اِحترام کَنَگ | ehteraam kort اِحترام کُرت | ehteraam kan اِحترام کَن | ehteraam kanaan' اِحترام کَنان | احترام کرنا |
-| 145 | to honor | **azeemat kanag** عظمت کَنَگ | azeemat kort عظمت کُرت | azeemat kan عظمت کَن | azeemat kanaan' عظمت کَنان | عزت دینا |
-| 146 | to shame | **sharminda kanag** شرمندہ کَنَگ | sharminda kort شرمندہ کُرت | sharminda kan شرمندہ کَن | sharminda kanaan' شرمندہ کَنان | شرمندہ کرنا |
+| 142 | to swear / to curse / to say abusive words | **záh dayag** زاہ دئگ | **záh dát** زاہ دات | **záh dae** زاہ دے | **záh daan'** زاہ دان | گالی دینا / curse کرنا |
+| 144 | to respect / to honor | **sharap dayag** شرپ دئیگ | **sharap dát** شرپ دات | **sharap dae** شرپ دے | **sharap daan'** شرپ دان | احترام کرنا / عزت دینا |
 | 147 | to embarrass | **khaijat kanag** خجالت کَنَگ | khaijat kort خجالت کُرت | khaijat kan خجالت کَن | khaijat kanaan' خجالت کَنان | شرمسار کرنا |
+| 147 | to embarrass / to shame | **pashal kanag** پشل کنگ | **pashal kort** پشل کُرت | **pashal kan** پشل کَن | **pashal kanaan'** پشل کَنان | شرمسار کرنا / شرمندہ کرنا |
 | 149 | to console / to comfort / to soothe | **sarhhénag** سڑھینگ | **sarhhént** سڑھینت | **sarhhén** سڑھین | **sarhhénaan'** سڑھینان | تسلی دینا / دلاسا دینا |
-| 150 | to encourage | **tashweesh daatag** تشویش داتَگ | tashweesh dát تشویش دات | tashweesh dae تشویش دے | tashweesh daan' تشویش دان | حوصلہ افزائی کرنا |
+| 150 | to encourage / to give hope | **omeit dayag** امیت دئیگ | **omeit dát** امیت دات | **omeit dae** امیت دے | **omeit daan'** امیت دان | حوصلہ افزائی کرنا / امید دینا |
 | 151 | to discourage | **naa-umeed kanag** ناامید کَنَگ | naa-umeed kort ناامید کُرت | naa-umeed kan ناامید کَن | naa-umeed kanaan' ناامید کَنان | مایوس کرنا |
-| 152 | to hope | **umeed warag** اُمید وَرَگ | umeed waart اُمید وَرت | umeed waa اُمید وا | umeed waraan' اُمید وران | امید رکھنا |
+| 152 | to hope / to have hope | **omeit dārag** امیت دارگ | **omeit dāsht** امیت داشت | **omeit daar** امیت دار | **omeit daaraan'** امیت داران | امید رکھنا / امیدوار ہونا |
 | 153 | to wish / to desire / to want | **wáhag** واھگ | **wáhet** واھت | **wáh** واھ | **wáhaan'** واھان | آرزو کرنا / چاہنا |
 | 154 | to dream | **wāb gendag** واب گِندگ | **wāb dist** واب دِست | **wāb gin** واب گِن | **wāb gendaan'** واب گِندان | خواب دیکھنا |
-| 155 | to imagine | | | | | تصور کرنا |
-| 156 | to believe | **eateqaad kanag** اِعتیقاد کَنَگ | eateqaad kort اِعتیقاد کُرت | eateqaad kan اِعتیقاد کَن | eateqaad kanaan' اِعتیقاد کَنان | یقین کرنا |
+| 156 | to believe / to have faith | **bawár kanag** باور کنگ | **bawár kort** باور کُرت | **bawár kan** باور کَن | **bawár kanaan'** باور کَنان | یقین کرنا / اعتقاد رکھنا |
 | 157 | to doubt | **shakk kanag** شک کَنَگ | shakk kort شک کُرت | shakk kan شک کَن | shakk kanaan' شک کَنان | شک کرنا |
-| 158 | to trust | **bharosa kanag** بھروسہ کَنَگ | bharosa kort بھروسہ کُرت | bharosa kan بھروسہ کَن | bharosa kanaan' بھروسہ کَنان | بھروسہ کرنا |
-| 159 | to suspect | **shobha kanag** شبہ کَنَگ | shobha kort شبہ کُرت | shobha kan شبہ کَن | shobha kanaan' شبہ کَنان | شبہ کرنا |
+| 158 | to trust (used in religious contexts) | **tawákkal kanag** تئوکل کنگ | **tawákkal kan** تئوکل کَن | **tawákkal kort** تئوکل کُرت | tawákkal kanaan' تئوکل کَنان | بھروسہ کرنا |
+| 158 | to trust | **bawár kanag** باور کنگ / **ehterár kanag** اھتبار کنگ / **besa kanag** بیسہ کنگ /  | **bawár kort** باور کُرت / **ehterár kort** اھتبار کُرت / **besa kort** بیسہ کُرت /  | **bawár kan** باور کَن / **ehterár kan** اھتبار کَن / **besa kan** بیسہ کَن  | **bawár kanaan'** باور کَنان / **ehterár kanaan'** اھتبار کَنان / **besa kanaan'** بیسہ کَنان   | بھروسہ کرنا / اعتماد کرنا |
+| 159 | to suspect / to doubt | **shakk kanag** شک کنگ | **shakk kort** شک کُرت | **shakk kan** شک کَن | **shakk kanaan'** شک کَنان | شبہ کرنا / شک کرنا |
 | 160 | to prove | **saa bit kanag** ثابت کَنَگ | saa bit kort ثابت کُرت | saa bit kan ثابت کَن | saa bit kanaan' ثابت کَنان | ثابت کرنا |
-| 161 | to show | **neshaan daatag** نشان داتَگ | neshaan dát نشان دات | neshaan dae نشان دے | neshaan daan' نشان دان | دکھانا |
-| 162 | to explain | **sharagh daatag** شرح داتَگ | sharagh dát شرح دات | sharagh dae شرح دے | sharagh daan' شرح دان | وضاحت کرنا |
+| 161 | to show / to display | **neshaan daatag** نشان داتگ / **pedáarag** پیدارگ | **neshaan dát** نشان دات / **pedáaret** پیدارت | **neshaan dae** نشان دے / **pedáar** پیدار | **neshaan daan'** نشان دان / **pedáaraan'** پیداران | دکھانا / ظاہر کرنا |
+| 162 | to explain / to make understand | **maaná kanag** مانا کنگ | **maaná kort** مانا کُرت | **maaná kan** مانا کَن | **maaná kanaan'** مانا کَنان | وضاحت کرنا / سمجھانا |
 | 163 | to describe | **tauseef kanag** توصیف کَنَگ | tauseef kort توصیف کُرت | tauseef kan توصیف کَن | tauseef kanaan' توصیف کَنان | بیان کرنا |
 | 164 | to define | **taareef kanag** تعریف کَنَگ | taareef kort تعریف کُرت | taareef kan تعریف کَن | taareef kanaan' تعریف کَنان | تعریف کرنا |
 | 165 | to mean | **maani daatag** معنی داتَگ | maani dát معنی دات | maani dae معنی دے | maani daan' معنی دان | مطلب ہونا |
@@ -174,34 +163,35 @@
 | 168 | to speak | **tawár kanag** تئوار کنگ | **tawár kort** تئوار کُرت | **tawár kan** تئوار کَن | **tawár kanaan'** تئوار کَنان | بولنا / بات کرنا |
 | 169 | to talk | **gapp zanag** گپ جنَگ | gapp zat گپ جت | gapp zan گپ جن | gapp zanaan' گپ جنان | بات کرنا |
 | 170 | to tell | **baat goshag** بات گوشَگ | baat gosht بات گوشت | baat gosh بات گُش | baat goshaan' بات گُشان | بتانا |
+| 170 | to tell / to say | **goshag** گوشگ | **gosht** گوشت | **gosh** گُش | **goshaan'** گُشان | بتانا / کہنا |
 | 171 | to discuss | **behas kanag** بحث کَنَگ | behas kort بحث کُرت | behas kan بحث کَن | behas kanaan' بحث کَنان | بحث کرنا |
 | 172 | to argue | **jhagarr ag** جھگڑَگ | jhagarr et جھگڑِت | jhagarr جھگڑ | jhagarraan' جھگڑان | جھگڑا کرنا |
 | 173 | to shout | **kaukár kanag** کوکار کنگ | **kaukár kort** کوکار کُرت | **kaukár kan** کوکار کَن | **kaukár kanaan'** کوکار کَنان | چلانا / آواز بلند کرنا |
-| 174 | to whisper | **phusphusaag** پُھسپُھساگ | phusphusaaret پُھسپُھسارت | phusphusaar پُھسپُھسار | phusphusaaraan' پُھسپُھساران | سرگوشی کرنا |
+| 174 | to whisper | **haloot kanag** ھلوت کنگ | **haloot kort** ھلوت کُرت | **haloot kan** ھلوت کَن | **haloot kanaan'** ھلوت کَنان | سرگوشی کرنا / کان میں کہنا |
 | 175 | to sing | **saráyag** سَرایَگ | sarát سَرات | saráy سَرای | saráyaan' سَرایان | گانا گانا |
-| 176 | to whistle | **seetee baadag** سیٹی با دَگ | seetee baadet سیٹی با دِت | seetee baad سیٹی با د | seetee baadaan' سیٹی با دان | سیٹی بجانا |
+| 176 | to whistle | **shézárag** شیزارگ | **shézáret** شیزارت | **shézar** شیزر | **shézaraan'** شیزاران | سیٹی بجانا /سنیں کرنا |
 | 177 | to laugh | **kandag** کَندَگ | kandet کَندِت | kand کند | kandan' کَندان | ہنسنا |
 | 178 | to smile | **bechkandag** بِچکَندَگ | bechkandet بِچکَندِت | bechkand بِچکند | bechkandaan' بِچکَندان | مسکرانا |
-| 179 | to cry | **greyvag** گریوَگ | greywit گریوِت | greyw گریو | greywaan' گریوان | رونا |
-| 180 | to weep | **gréwag** گرێوَگ | grét گْرێت | gréw گرێو | gréwaan' گرێوان | رویا کرنا |
+| 179 | to cry / to weep | **greyag** گریگ | **greyet** گریت | **grey** گری | **greyaan'** گریان | رونا |
 | 181 | to mourn | **gham kashag** غم کَشَگ | gham kasht غم کَشت | gham kash غم کَش | gham kashaan' غم کَشان | ماتم کرنا |
 | 182 | to celebrate | **jashan manaag** جشن مناگ | jashan manaat جشن منات | jashan manaa جشن منا | jashan manaag جشن مناگ | جشن منانا |
 | 183 | to enjoy | **maza warag** مزا وَرَگ | maza waart مزا وَرت | maza waa مزا وا | maza waraan' مزا وران | لطف اٹھانا |
-| 184 | to suffer | **takleef kashag** تکلیف کَشَگ | takleef kasht تکلیف کَشت | takleef kash تکلیف کَش | takleef kashaan' تکلیف کَشان | تکلیف اٹھانا |
+| 184 | to suffer / to experience pain | **azáab bayag** ازاب بئیگ | **azáab but** ازاب بوت | **azáab bee** ازاب بِی | **azáab beein'** ازاب بِین | تکلیف اٹھانا / دکھ برداشت کرنا |
 | 185 | to hurt | **dard dayag** درد دئیگ | dard dát درد دات | dard dae درد دے | dard daan' درد دان | درد دینا |
-| 186 | to heal | **shifaa ba khshag** شفا بخشَگ | shifaa ba khsht شفا بخشت | shifaa ba khsh شفا بخش | shifaa ba khshaan' شفا بخشان | شفا دینا |
-| 187 | to cure | **elaaj kanag** علاج کَنَگ | elaaj kort علاج کُرت | elaaj kan علاج کَن | elaaj kanaan' علاج کَنان | علاج کرنا |
+| 186 | to heal / to be cured | **daráh biag** دراھ بیگ | **daráh bit** دراھ بِت | **daráh bie** دراھ بِئ | **daráh biein'** دراھ بِئین | شفا پانا / ٹھیک ہونا |
+| 187 | to cure / to heal | **daráh kanag** دراھ کنگ | **daráh kort** دراھ کُرت | **daráh kan** دراھ کَن | **daráh kanaan'** دراھ کَنان | علاج کرنا / شفا دینا |
 | 188 | to treat | **bar'aamad kanag** برآمد کَنَگ | bar'aamad kort برآمد کُرت | bar'aamad kan برآمد کَن | bar'aamad kanaan' برآمد کَنان | علاج کرنا |
-| 189 | to operate | **jarraahi kanag** جراحی کَنَگ | jarraahi kort جراحی کُرت | jarraahi kan جراحی کَن | jarraahi kanaan' جراحی کَنان | آپریشن کرنا |
-| 190 | to examine | **mu'aayanag** مُعاینَگ | mu'aayanet مُعاینِت | mu'aayan مُعاین | mu'aayanaag مُعاینان | معائنہ کرنا |
+| 188 | to treat / to give medicine | **dawáa dayag** دوا دئیگ | **dawáa dát** دوا دات | **dawáa dae** دوا دے | **dawáa daan'** دوا دان | علاج کرنا / دوا دینا |
+| 189 | to operate (medical) | **bar o barén kanag** بر و برین کنگ | **bar o barén kort** بر و برین کُرت | **bar o barén kan** بر و برین کَن | **bar o barén kanaan'** بر و برین کَنان | آپریشن کرنا / جراحی کرنا |
+| 190 | to operate (machines/business) / to run | **jazénag** جزینگ | **jazént** جزینت | **jazén** جزین | **jazénaan'** جزینان | چلانا / آپریٹ کرنا |
+| 190 | to examine / to see / to look at | **gendag** گندگ | **dist** دِست | **gin** گِن | **gendaan'** گِندان | معائنہ کرنا / دیکھنا / جانچنا |
 | 191 | to diagnose | **tashkhees kanag** تشخیص کَنَگ | tashkhees kort تشخیص کُرت | tashkhees kan تشخیص کَن | tashkhees kanaan' تشخیص کَنان | تشخیص کرنا |
-| 192 | to prevent | **mana kanag** منع کَنَگ | mana kort منع کُرت | mana kan منع کَن | mana kanaan' منع کَنان | روکنا |
-| 193 | to protect | **hifaazat kanag** حفاظت کَنَگ | hifaazat kort حفاظت کُرت | hifaazat kan حفاظت کَن | hifaazat kanaan' حفاظت کَنان | حفاظت کرنا |
-| 194 | to defend | **difaa kanag** دفاع کَنَگ | difaa kort دفاع کُرت | difaa kan دفاع کَن | difaa kanaan' دفاع کَنان | دفاع کرنا |
-| 195 | to attack | **hamla kanag** حملہ کَنَگ | hamla kort حملہ کُرت | hamla kan حملہ کَن | hamla kanaan' حملہ کَنان | حملہ کرنا |
-| 196 | to fight | **jang kanag** جنگ کَنَگ | jang kort جنگ کُرت | jang kan جنگ کَن | jang kanaan' جنگ کَنان | لڑائی کرنا |
-| 197 | to win | **baaj barag** باع بَرَگ | baaj bort باع بُرت | baaj bar باع بر | baaj baraan' باع باران | جیتنا |
-| 198 | to lose | **haar khwarag** ہار خوََرَگ | haar khwart ہار خوَرت | haar khwar ہار خوَر | haar khwaraan' ہار خوَاران | ہارنا |
+| 192 | to prevent / to forbid / to stop | **dárag** دارگ | **dásht** داشت | **daar** دار | **daaraan'** داران | روکنا / منع کرنا |
+| 194 | to defend / to protect | **dempáni kanag** دیمپانی کنگ | **dempáni kort** دیمپانی کُرت | **dempáni kan** دیمپانی کَن | **dempáni kanaan'** دیمپانی کَنان | دفاع کرنا / حفاظت کرنا |
+| 195 | to attack | **mán bandag** مان بندگ / **rabídah kanag** ربیدہ کنگ | **mán bast** مان بست / **rabídah kort** ربیدہ کُرت | **mán band** مان بند / **rabídah kan** ربیدہ کَن | **mán bandaan'** مان بندان / **rabídah kanaan'** ربیدہ کَنان | حملہ کرنا / چڑھائی کرنا |
+| 196 | to charge (military) / to rush forward | **rombag** رمبگ | **rombet** رمبت | **romb** رمب | **rombaan'** رمبان | حملہ کرنا / یلغار کرنا |
+| 196 | to fight | **merhag** مڑگ | **merhet** مڑت | **merh** مڑ | **merhaan'** مڑان | لڑائی کرنا / جھگڑا کرنا |
+| 197 | to win | **báaj bayag** باج بئیگ | **báaj but** باج بوت | **báaj bee** باج بِی | **báaj beein'** باج بِین | جیتنا / فتح پانا |
+| 198 | to lose / to be defeated | **báahénag** باھینگ | **báahént** باھینت | **báahén** باھین | **báahénaan'** باھینان | ہارنا / شکست کھانا |
 | 199 | to draw | **naqsha kashag** نقشہ کَشَگ | naqsha kasht نقشہ کَشت | naqsha kash نقشہ کَش | naqsha kashaan' نقشہ کَشان | نقشہ کھینچنا |
-| 200 | to paint | **rang warag** رَنگ وَرَگ | rang waart رَنگ وَرت | rang waa رَنگ وا | rang waraan' رَنگ وران | رنگ کرنا |
-
+| 200 | to paint | **rang kanag** رنگ کنگ | **rang kort** رنگ کُرت | **rang kan** رنگ کَن | **rang kanaan'** رنگ کَنان | رنگ کرنا / پینٹ کرنا |
